@@ -25,7 +25,6 @@ This application provides a user-friendly GUI to remove the background from imag
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/hosenmekawy/background-removal.git
-cd background-removal
 ```
 
 ### 3. Install Required Libraries
