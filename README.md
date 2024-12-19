@@ -1,4 +1,4 @@
-# Background Remover App
+# Background Remover App (offline)
 
 This application provides a user-friendly GUI to remove the background from images. It organizes original and processed images into separate folders for easy management.
 
