@@ -107,7 +107,7 @@ Ensure you have a compatible NVIDIA GPU and CUDA installed. Follow the [CUDA Ins
 
 
 ### 1. **Processing Example**
-![Processing Example](screenshots/processing_example.png)
+![Processing Example](screenshots/Screenshot 2024-12-19 130444.png)
 
 ---
 
